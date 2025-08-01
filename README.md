@@ -3,11 +3,11 @@
 ## 始めかた
 1. このリポジトリをクローンする
     ```bash
-    git clone
+    git clone https://github.com/ryukyuhub/get-started-tailwindcss-laravel.git
     ```
 1. このプロジェクトディレクトリ（リポジトリ）内で 依存パッケージをインストールする
     ```bash
-    cd
+    cd get-started-tailwindcss-laravel
     ```
     ```bash
     composer install
