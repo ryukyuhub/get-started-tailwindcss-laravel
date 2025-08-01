@@ -31,7 +31,8 @@
       ```bash
       npm run dev
       ```
-3. 開発サーバー起動させる
+3. 開発サーバーを起動させる
+    #### `npm run dev`している場合は別ウィンドウで行うこと
     ```bash
     php artisan serve
     ```
